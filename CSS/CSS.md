@@ -409,7 +409,6 @@ Respecto al comportamiento, las cajas se pueden ocultar, indicar su posición, e
 * Numero indica un múltiplo del tamaño de letra
 * ```vertical-align: baseline | sub | super | top | text‐top | middle | bottom | text‐bottom | porcentaje | <medida> | inherit```
 * ```text-indent: medida | % | inherit```
-
 * ```letter-spacing: normal | medida | inherit```
 * ```word-spacing: normal | medida | inherit```<br>
 medida se interpreta como espacios adicionales que se añaden (cuando es positivo) o quitan (cuando es negativo respecto a la separación por defecto
