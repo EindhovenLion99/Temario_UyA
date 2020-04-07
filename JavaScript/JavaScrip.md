@@ -260,11 +260,11 @@ var ejemploObjeto = {
 
 # Eventos I
 
-![](/Capturas/Cap1.png)
+![](Capturas/Cap1.png)
 
 # Eventos II
 
-![](/Capturas/Cap2.png)
+![](Capturas/Cap2.png)
 
 # Arbol DOM
 
